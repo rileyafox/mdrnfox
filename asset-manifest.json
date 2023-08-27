@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mdrnfox/static/css/main.2c1e11f6.css",
+    "main.js": "/mdrnfox/static/js/main.a6a963e9.js",
+    "static/media/windows_11_se.png": "/mdrnfox/static/media/windows_11_se.e1716c251e7c9d96c05b.png",
+    "static/media/fox_logo_removebg-transformed.png": "/mdrnfox/static/media/fox_logo_removebg-transformed.b37b569d55a4f1ddcba8.png",
+    "static/media/twitter-resume.jpg": "/mdrnfox/static/media/twitter-resume.5eb62e5e05eb5567a74c.jpg",
+    "static/media/Twitter-Clone.jpg": "/mdrnfox/static/media/Twitter-Clone.c3920d63b4d21f46fc2d.jpg",
+    "static/media/Visual-Sorting-Algorithms.jpg": "/mdrnfox/static/media/Visual-Sorting-Algorithms.1939f232bed4951bf7a2.jpg",
+    "static/media/Visual-Pathing-Algorithms.jpg": "/mdrnfox/static/media/Visual-Pathing-Algorithms.a956c621c0aa312419a9.jpg",
+    "static/media/resume.pdf": "/mdrnfox/static/media/resume.37d8ad65648a551695a9.pdf",
+    "index.html": "/mdrnfox/index.html",
+    "main.2c1e11f6.css.map": "/mdrnfox/static/css/main.2c1e11f6.css.map",
+    "main.a6a963e9.js.map": "/mdrnfox/static/js/main.a6a963e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c1e11f6.css",
+    "static/js/main.a6a963e9.js"
+  ]
+}
